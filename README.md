@@ -61,5 +61,3 @@ This project is part of my portfolio and demonstrates the following skills:
 - Drawing insights using SQL queries for data-driven business decisions.
 
 You can view my program certificate for this project [here](https://www.udemy.com/certificate/UC-328ae17c-df7d-46ce-84ff-abc120c0b61a/).
-
-Feel free to explore the SQL queries and insights presented in this repository. For further details, refer to the SQL files provided.
