@@ -2,7 +2,7 @@
 
 **Tools Used:** MySQL, MySQL Workbench, PowerBI
 
-**Approach:** Analyzed iOS app store data to understand app characteristics and trends. Visualized ratings, prices, and categories. Query file named as AppleStoreData_EDA_SQL
+**Approach:** Analyse iOS app store data to understand app characteristics and trends. Visualized ratings, prices, and categories. Query file named as AppleStoreData_EDA_SQL
 
 **Visualizations:** Used Power BI for visualization. File named as Power BI report. 
 
